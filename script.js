@@ -1,4 +1,5 @@
 const container = document.querySelector(".hero-container");
+
 const btns = document.querySelectorAll(".btn");
 
 btns.forEach((btn) => {
